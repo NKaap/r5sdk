@@ -36,6 +36,7 @@
 #include "geforce/reflex.h"
 #include "gameui/IBrowser.h"
 #include "gameui/IConsole.h"
+#include "gameui/IConsole.u"
 #endif // !DEDICATED
 #ifndef CLIENT_DLL
 #include "networksystem/bansystem.h"
